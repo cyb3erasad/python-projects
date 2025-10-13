@@ -189,4 +189,4 @@ A basic **countdown timer** with start and stop functionality ⏳.
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/cyb3erasad/beginners-project.git
+   git clone https://github.com/cyb3erasad/python-projects.git
