@@ -1,4 +1,4 @@
-# 🐍 My Python Basic + Intermediate Projects Collection  
+# 🐍 My Python Basic + Intermediate Projects Collection  .
 
 Welcome to my **Python Projects Repository**! 🎯  
 This repository is a collection of beginner to intermediate-level projects I’ve built while learning and practicing **Python programming**.  
